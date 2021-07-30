@@ -24,3 +24,11 @@ What are some of the most popular data science tools, how do you use them, and w
 In this course, you'll learn about the day-to-day experiences of Data Scientists. You’ll be introduced to some of the programming languages commonly used, including Python, R, Scala, and SQL. You’ll work with the tools that professional Data Scientists work with, like Jupyter Notebooks, RStudio IDE, and others. You will learn about what each tool is used for, what languages they can execute, and their features and limitations. With the tools hosted in the cloud on Cognitive Class Labs, you will be able to use each tool and follow instructions to run simple code in Python, R, or Scala.
 ## Prerequisite
 We have created this course so that anyone with basic computer skills would be able to learn about the tools for data science. The only prerequisite for this course is your desire to learn.
+## Changelog
+* 08 Oct 2020 (Aije Egwaikhide): Re-ordered course and dividd modules into 7 parts
+
+* 01 Sept 2020: Updated version of the course published on edX.org.
+
+* 01 Sept 2020 (Sonia Gupta): Replaced links to labs with links from SN Asset Library.
+
+* 23 Mar 2020: Initial version of the course published on edX.org.
