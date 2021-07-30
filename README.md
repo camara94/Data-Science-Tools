@@ -192,3 +192,6 @@ We have created this course so that anyone with basic computer skills would be a
 #### Other Data Science Tools commercial
 ##### H2O.ai
 ![h2oia](images/h2oia.png)
+### Cloud Based Tools for Data Science
+![cloud](images/cloudtools1.png)
+This clusters are composed of multiple server machines transparently for the user in the background.
