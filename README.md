@@ -259,3 +259,7 @@ Data Visualization methods are a great way to communicate with others and show t
 * For machine learning, the Scikit-learn library contains tools for statistical modeling, including regression, classification, clustering and others. It is built on Numpy, Scipy and Matplotlib and it's relatively simple to get started.
 * For Deep Learning, Keras enable you to build the standard deep learning model. Like Scikit-learning, the high-level interface enables you to build models quickly and simply. It can function using graphics processing units(GPU), but for many deep learning cases a lowel-level environment is required.
 
+### Deep Learning Libraries in Python
+![deeplearning](images/deeplearninglibraries.png)
+* TensorFlow is a low-level framework used in large production of deep learning models. It designed for production but can be unwieldy for experimentation.
+* PyTorch is used for experimentation, making it simple for researchers to test their ideas.
