@@ -110,3 +110,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![modeldeployement](images/modeldeployement.png)
 #### Model Monitoring and Assessement
 ![model monitoring](images/modelmonitoring.png)
+#### Code Asset Management
+![code asset](images/codeasset.png)
