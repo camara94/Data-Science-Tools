@@ -216,3 +216,5 @@ it is a database as a service offering
 #### CouchDB 
 ![couchdb](images/couchdb.png)
 it is apache couch DB, it has a adventage although complex operational tasks like updating backup restore and scaling are done by the cloud privider under the hood. This offering is compatible with couch DB, therefore the application can be migrated to another couch DB server without changing the application.
+#### IBM DB 2 as a service as well.
+![db2](images/db2.png)
