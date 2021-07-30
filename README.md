@@ -100,3 +100,5 @@ We have created this course so that anyone with basic computer skills would be a
 ### Categories of Data Science Tools
 #### Data Management
 ![datamanagement](images/datamanagement.png)
+#### Data Integration and Transformation
+![data integration and transformation](images/dataintegrationandtransformation.png)
