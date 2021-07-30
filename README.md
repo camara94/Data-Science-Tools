@@ -175,3 +175,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![data inte](images/dataintegrationandtransformationcom.png)
 #### Data Virtualization Tools
 ![datavisualization](images/datavisualizationcom.png)
+#### Model Building Tools
+![model building](images/modelbuildingcom.png)
