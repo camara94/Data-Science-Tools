@@ -102,3 +102,6 @@ We have created this course so that anyone with basic computer skills would be a
 ![datamanagement](images/datamanagement.png)
 #### Data Integration and Transformation
 ![data integration and transformation](images/dataintegrationandtransformation.png)
+
+#### Data Visualization
+![data visualization](images/datavisualization.png)
