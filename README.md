@@ -145,3 +145,5 @@ We have created this course so that anyone with basic computer skills would be a
 ##### JupyterLab Tools
 ![jupyterlab](images/jupyterlab.png)
 ![jupyterlab](images/jupyterlab2.png)
+#### Apache Zepplin Notebook Tools
+![apachezepplin](images/apachezepplin.png)
