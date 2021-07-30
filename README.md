@@ -108,3 +108,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![data modeling](images/datamodeling.png)
 #### Model Deployement
 ![modeldeployement](images/modeldeployement.png)
+#### Model Monitoring and Assessement
+![model monitoring](images/modelmonitoring.png)
