@@ -226,11 +226,10 @@ When it comes to commercial data integration tools, we talk not only about "Extr
 Data Refinery enables transformation of large amounts of raw data into consumable quality information in a spread sheet-like user interface.
 ### Data Visualization
 ![dv](images/dv.png)
-### Watson Studio
+#### Watson Studio
 ![dvwa](images/dvwatson.png)
 ![dvwa](images/dvwatson2.png)
 ![dvwa](images/dvwatson3.png)
 ![dvwa](images/dvwatson4.png)
 ![dvwa](images/dvwatson5.png)
 In watson Studio, an abundance of different visualizations can be used to better understand data
-
