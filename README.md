@@ -42,3 +42,7 @@ We have created this course so that anyone with basic computer skills would be a
 * Module 5 - Jupyter Notebooks and JupyterLab
 * Module 6 - RStudio IDE
 * Module 7 - Watson Studio
+## Module 1 - Language of Data Science
+### Languages of Data Science
+### Which language should I learn ?
+![whichlanguage](images/whichlanguage.png)
