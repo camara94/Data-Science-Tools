@@ -96,3 +96,7 @@ We have created this course so that anyone with basic computer skills would be a
 ![js](images/js.png)
 #### Julia
 ![julia](images/julia.png)
+## Module 2 - Data Science Tools
+### Categories of Data Science Tools
+#### Data Management
+![datamanagement](images/datamanagement.png)
