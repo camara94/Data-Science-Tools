@@ -186,3 +186,6 @@ We have created this course so that anyone with basic computer skills would be a
 ![data](images/comtools.png)
 ##### Watson Studio Tools and watson Open Scale
 ![watson](images/watsonstudion.png)
+![wat](images/watsonstudionandopenscale.png)
+* it combine jupyter notebook with graphical tools to mixamize data scientist performance
+* integrated and cover fully in the data science live cycle and all the tache we discuss previously
