@@ -233,3 +233,5 @@ Data Refinery enables transformation of large amounts of raw data into consumabl
 ![dvwa](images/dvwatson4.png)
 ![dvwa](images/dvwatson5.png)
 In watson Studio, an abundance of different visualizations can be used to better understand data
+### Model building
+![modelbuilding](images/modelbuiling.png)
