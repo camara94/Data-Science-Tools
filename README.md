@@ -71,3 +71,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![whoisrfor](images/whoisrfor.png)
 #### What makes R great:
 ![what makes R great](images/whatmakesrgreat.png)
+#### Global Communicaties
+![globalcommunities](images/globalcommunities.png)
