@@ -73,3 +73,6 @@ We have created this course so that anyone with basic computer skills would be a
 ![what makes R great](images/whatmakesrgreat.png)
 #### Global Communicaties
 ![globalcommunities](images/globalcommunities.png)
+### Introduction to SQL
+#### What is SQL ?
+![whatissql](images/whatissql.png)
