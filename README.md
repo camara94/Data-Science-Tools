@@ -239,3 +239,6 @@ In watson Studio, an abundance of different visualizations can be used to better
 ![deployement](images/modeldeployementcloud.png)
 ### Model Monitoring and Assessement
 ![monitoring](images/monitoring.png)
+### Module 3
+### Libraries for Data Science
+![labrary](images/library.png)
