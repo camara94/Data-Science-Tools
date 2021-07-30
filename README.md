@@ -69,3 +69,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![rstudio](images/rstudio.png)
 #### Who is R for ?
 ![whoisrfor](images/whoisrfor.png)
+#### What makes R great:
+![what makes R great](images/whatmakesrgreat.png)
