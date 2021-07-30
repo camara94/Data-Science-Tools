@@ -118,3 +118,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![development environment](images/developmentenvironment.png)
 #### Execution Environments
 ![executionenvironment](images/executionenvironment.png)
+#### Fully Integrated Visual Tools
+![fully integrated visual tools](images/fullyintegratedvisualtools.png)
