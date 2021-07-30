@@ -32,3 +32,13 @@ We have created this course so that anyone with basic computer skills would be a
 * 01 Sept 2020 (Sonia Gupta): Replaced links to labs with links from SN Asset Library.
 
 * 23 Mar 2020: Initial version of the course published on edX.org.
+
+## Syllabus
+* Module 0 - Welcome and Course Introduction
+* Module 1 - Languages of Data Science
+* Module 2 - Data Science Tools
+* Module 3 - Packages, APIs, Data Sets and Models
+* Module 4 - GitHub
+* Module 5 - Jupyter Notebooks and JupyterLab
+* Module 6 - RStudio IDE
+* Module 7 - Watson Studio
