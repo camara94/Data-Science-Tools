@@ -269,3 +269,6 @@ This means that you process data in parallel,
 using multiple computers simultaneously.
 ![spark](images/sparklibrary.png)
 * The Spark library has similar functionnality as Pandas, Numpy, and Scikit-learng
+### Spark Data Processing
+In Spark Data processing, you need Python, R, Scala, Or SQL.
+![spark](images/sparkdataprocessing.png)
