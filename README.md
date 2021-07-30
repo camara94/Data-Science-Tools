@@ -151,3 +151,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![rstudio](images/rstudio2.png)
 #### Spider Tools
 ![spider](images/spider.png)
+#### Apache Spark
+![apachespark](images/apachespark.png)
