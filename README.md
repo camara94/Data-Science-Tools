@@ -4,3 +4,5 @@ In this course you’ll receive one of the most comprehensive overviews on open 
 ## Introduction to Tools for Data Science
 ### Key Points
 ![keypoints](images/keypoint.png)
+### Data is central to data science
+![data](images/data.png)
