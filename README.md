@@ -204,3 +204,6 @@ cloudhosted offering supporting the complete
 development life cycle of all data science, machine learning and IA tasks.
 ### H2O.ai
 ![h2oai](images/h2oiacloud.png)
+### Data Management
+![data](images/datam.png)
+![cloudapp](images/clouapp.png)
