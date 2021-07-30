@@ -67,3 +67,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![opensourcevsfreesoftware](images/opensourcevsfreesoftware.png)
 #### Back to the joys of R...
 ![rstudio](images/rstudio.png)
+#### Who is R for ?
+![whoisrfor](images/whoisrfor.png)
