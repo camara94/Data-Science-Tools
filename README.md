@@ -272,3 +272,7 @@ using multiple computers simultaneously.
 ### Spark Data Processing
 In Spark Data processing, you need Python, R, Scala, Or SQL.
 ![spark](images/sparkdataprocessing.png)
+### Scala-Libraries
+![scalalib](images/scalalibraries.png)
+* Vegas is a Scala library for statistical data visualizations. With Vegas, you can work with data files as well as Spark DataFrames.
+* For Deep Learning, you can use Big DL.
