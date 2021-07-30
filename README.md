@@ -142,3 +142,6 @@ We have created this course so that anyone with basic computer skills would be a
 ##### Jupyter Tools
 ![jupyter](images/jupyter.png)
 ![jupyter](images/jupyter2.png)
+##### JupyterLab Tools
+![jupyterlab](images/jupyterlab.png)
+![jupyterlab](images/jupyterlab2.png)
