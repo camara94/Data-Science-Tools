@@ -112,3 +112,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![model monitoring](images/modelmonitoring.png)
 #### Code Asset Management
 ![code asset](images/codeasset.png)
+#### Data Asset Management
+![dataassetmanagement](images/dataassetmanagement.png)
