@@ -106,3 +106,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![data visualization](images/datavisualization.png)
 #### Data Modeling
 ![data modeling](images/datamodeling.png)
+#### Model Deployement
+![modeldeployement](images/modeldeployement.png)
