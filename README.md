@@ -263,3 +263,9 @@ Data Visualization methods are a great way to communicate with others and show t
 ![deeplearning](images/deeplearninglibraries.png)
 * TensorFlow is a low-level framework used in large production of deep learning models. It designed for production but can be unwieldy for experimentation.
 * PyTorch is used for experimentation, making it simple for researchers to test their ideas.
+### Apache Spark
+Apache Spark is a general-purpose cluster-computing framework that enables you to process data using compute clusters.
+This means that you process data in parallel,
+using multiple computers simultaneously.
+![spark](images/sparklibrary.png)
+* The Spark library has similar functionnality as Pandas, Numpy, and Scikit-learng
