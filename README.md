@@ -173,3 +173,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![data management com](images/datamanagementcom.png)
 #### Data Integration and Transformation Tools
 ![data inte](images/dataintegrationandtransformationcom.png)
+#### Data Virtualization Tools
+![datavisualization](images/datavisualizationcom.png)
