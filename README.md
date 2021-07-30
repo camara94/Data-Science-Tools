@@ -48,3 +48,6 @@ We have created this course so that anyone with basic computer skills would be a
 ![whichlanguage](images/whichlanguage.png)
 ### So many languages recommended in Data Science!
 ![manylanguage](images/manylanguage.png)
+### So many popular languages!
+![popularlanguage](images/popularlanguage.png)
+
