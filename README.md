@@ -1,4 +1,4 @@
-# Science-Tools
+# Data Science Tools
 In this course you’ll receive one of the most comprehensive overviews on open source and commercial tooling available for data science, and the skills on how to use them.
 
 ## Introduction to Tools for Data Science
@@ -65,3 +65,5 @@ We have created this course so that anyone with basic computer skills would be a
 ### Introduction to R Language
 #### Open Source Vs. Free Software
 ![opensourcevsfreesoftware](images/opensourcevsfreesoftware.png)
+#### Back to the joys of R...
+![rstudio](images/rstudio.png)
