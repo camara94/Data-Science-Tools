@@ -92,3 +92,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![scala](images/scala.png)
 #### C++
 ![c++](images/cplusplus.png)
+#### JS
+![js](images/js.png)
