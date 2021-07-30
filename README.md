@@ -182,3 +182,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![model deployement](images/modeldeployementcom.png)
 #### Data Asset Tools
 ![dataassettools](images/dataassettoolscom.png)
+#### Fully Integrated Visual Tools
+![data](images/comtools.png)
