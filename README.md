@@ -94,3 +94,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![c++](images/cplusplus.png)
 #### JS
 ![js](images/js.png)
+#### Julia
+![julia](images/julia.png)
