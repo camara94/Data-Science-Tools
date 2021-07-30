@@ -82,3 +82,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![sql elements](images/sqlelements.png)
 #### What makes SQL great:
 ![what makes sql great](images/whatmakessqlgreat.png)
+#### Many SQL Databases Available
+![many sql database](images/manysqldatabases.png)
