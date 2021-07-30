@@ -10,6 +10,7 @@ In this course you’ll receive one of the most comprehensive overviews on open 
 ![datascience](images/datasciencerequire.png)
 ### Automation with Data Science Tooling
 ![automation](images/automation.png)
-
 ### Visual Programming & Modeling
 ![visual](images/visualprogramming.png)
+### Open Source & Commercial Tools
+![opensource](images/opensourceandcommercialtools.png)
