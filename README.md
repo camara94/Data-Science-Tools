@@ -88,3 +88,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![other languages](images/otherlanguages.png)
 #### Java
 ![java](images/java1.png)
+#### Scala
+![scala](images/scala.png)
