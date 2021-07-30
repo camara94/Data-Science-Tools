@@ -165,3 +165,6 @@ We have created this course so that anyone with basic computer skills would be a
 #### KNIME
 ![kanime](images/kanime.png)
 ![knime](images/knime.png)
+#### Orange
+![orange](images/orange.png)
+![orange](images/orange2.png)
