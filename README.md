@@ -76,3 +76,5 @@ We have created this course so that anyone with basic computer skills would be a
 ### Introduction to SQL
 #### What is SQL ?
 ![whatissql](images/whatissql.png)
+#### Relational Databases
+![relational databases](images/relationaldatabases.png)
