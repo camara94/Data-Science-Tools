@@ -127,3 +127,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![data](images/dataintegrationandtransformation2.png)
 #### Data Visualization Tools
 ![data visualization](images/datavisualization2.png)
+#### Model Deployement Tools
+![model deployement tools](images/modeldeployement2.png)
