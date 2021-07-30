@@ -220,3 +220,4 @@ it is apache couch DB, it has a adventage although complex operational tasks lik
 ![db2](images/db2.png)
 ### Data Integration and Transformation
 ![etl](images/etlel.png)
+When it comes to commercial data integration tools, we talk not only about "Extract, Transform, and Load", or "ETL" tools, but also about "Extract, Load, and Transform", or "ELT" tools.
