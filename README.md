@@ -6,3 +6,5 @@ In this course you’ll receive one of the most comprehensive overviews on open 
 ![keypoints](images/keypoint.png)
 ### Data is central to data science
 ![data](images/data.png)
+### Data science requires Programming
+![datascience](images/datasciencerequire.png)
