@@ -157,3 +157,6 @@ We have created this course so that anyone with basic computer skills would be a
 ![apacheflink](images/apacheflink.png)
 * Flink is a stream processing
 * Flink is image processing, with its mains focus on processus
+#### Ray
+![ray](images/ray.png)
+* it focus large-scale deep learning model training
