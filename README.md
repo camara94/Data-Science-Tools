@@ -139,3 +139,6 @@ We have created this course so that anyone with basic computer skills would be a
 #### Development Environment Tools
 ![env](images/allenvironment.png)
 ![other tools](images/othertools.png)
+##### Jupyter Tools
+![jupyter](images/jupyter.png)
+![jupyter](images/jupyter2.png)
