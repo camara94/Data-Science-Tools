@@ -14,3 +14,5 @@ In this course you’ll receive one of the most comprehensive overviews on open 
 ![visual](images/visualprogramming.png)
 ### Open Source & Commercial Tools
 ![opensource](images/opensourceandcommercialtools.png)
+### Data Science on Cloud
+![datascience](images/datascienceoncloud.png)
