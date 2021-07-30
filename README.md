@@ -60,3 +60,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![diversity](images/diversity2.png)
 #### Who is Python for ?
 ![whoispythonfor](images/whoispythonfor.png)
+#### What makes Python great:
+![whatmakespythongreat](images/whatmakespythongreat.png)
