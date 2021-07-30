@@ -86,3 +86,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![many sql database](images/manysqldatabases.png)
 ### Other Languages
 ![other languages](images/otherlanguages.png)
+#### Java
+![java](images/java1.png)
