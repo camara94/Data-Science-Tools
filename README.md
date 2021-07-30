@@ -162,3 +162,6 @@ We have created this course so that anyone with basic computer skills would be a
 * it focus large-scale deep learning model training
 ### Tools with no programming level necessary
 ![non-prog](images/noprogrammingtools.png)
+#### KNIME
+![kanime](images/kanime.png)
+![knime](images/knime.png)
