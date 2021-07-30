@@ -171,3 +171,5 @@ We have created this course so that anyone with basic computer skills would be a
 ### Commercial Tools for Data Science
 #### Data Management Tools
 ![data management com](images/datamanagementcom.png)
+#### Data Integration and Transformation Tools
+![data inte](images/dataintegrationandtransformationcom.png)
