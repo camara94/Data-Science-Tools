@@ -254,3 +254,8 @@ Data Visualization methods are a great way to communicate with others and show t
 ![visualizationlib](images/visualizationlibraries.png)
 * Matplotlib(plots & most popular) the Matplotlib package is the most well-know library data visualization, and it's excellent for making graphs and plots.
 * seaborn is based on matplotlib. Seaborn makes it easy to generate plots like heat maps, time series, and violon plots.
+* ### Machine Learning and Deep Learning Libraries In Python
+![machinelearning libraries](images/machinelibraries.png)
+* For machine learning, the Scikit-learn library contains tools for statistical modeling, including regression, classification, clustering and others. It is built on Numpy, Scipy and Matplotlib and it's relatively simple to get started.
+* For Deep Learning, Keras enable you to build the standard deep learning model. Like Scikit-learning, the high-level interface enables you to build models quickly and simply. It can function using graphics processing units(GPU), but for many deep learning cases a lowel-level environment is required.
+
