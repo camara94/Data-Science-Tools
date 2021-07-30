@@ -62,3 +62,6 @@ We have created this course so that anyone with basic computer skills would be a
 ![whoispythonfor](images/whoispythonfor.png)
 #### What makes Python great:
 ![whatmakespythongreat](images/whatmakespythongreat.png)
+### Introduction to R Language
+#### Open Source Vs. Free Software
+![opensourcevsfreesoftware](images/opensourcevsfreesoftware.png)
