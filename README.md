@@ -301,3 +301,5 @@ R has built-in function for machine learning and data visualization. There are a
 ![ownership](images/ownership.png)
  #### Where to find open data
  ![finddata](images/wheretofinddata.png)
+  #### Community Data Licence Agreement
+ ![dataagreement](images/dataagreement.png)
