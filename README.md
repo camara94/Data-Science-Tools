@@ -189,3 +189,6 @@ We have created this course so that anyone with basic computer skills would be a
 ![wat](images/watsonstudionandopenscale.png)
 * it combine jupyter notebook with graphical tools to mixamize data scientist performance
 * integrated and cover fully in the data science live cycle and all the tache we discuss previously
+#### Other Data Science Tools commercial
+##### H2O.ai
+![h2oia](images/h2oia.png)
