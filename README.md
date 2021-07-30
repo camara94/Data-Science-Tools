@@ -52,4 +52,6 @@ We have created this course so that anyone with basic computer skills would be a
 ![popularlanguage](images/popularlanguage.png)
 ### Roles in Data Science
 ![roleindatascience](images/roleindatascience.png)
+### Lesson 1: Outline
+![lesson1](images/lesson1.png)
 
