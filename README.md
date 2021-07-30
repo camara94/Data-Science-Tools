@@ -276,3 +276,9 @@ In Spark Data processing, you need Python, R, Scala, Or SQL.
 ![scalalib](images/scalalibraries.png)
 * Vegas is a Scala library for statistical data visualizations. With Vegas, you can work with data files as well as Spark DataFrames.
 * For Deep Learning, you can use Big DL.
+### R-Libraries
+![rlib](images/rlibraries.png)
+R has built-in function for machine learning and data visualization. There are also several coçmplementary libraries:
+* ggplot2 is a popular library for data visualization
+* interface with keras and tensorFlow.
+* R has been the de-facto standard for open source data science but it is now being superseded by Python.
