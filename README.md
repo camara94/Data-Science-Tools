@@ -123,3 +123,5 @@ We have created this course so that anyone with basic computer skills would be a
 ### Open Source Tools for Data Science - Part 1
 #### Data Management Tools
 ![data management](images/dataassetmanagement2.png)
+#### Data Integration and Transformation Tools
+![data](images/dataintegrationandtransformation2.png)
