@@ -114,3 +114,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![code asset](images/codeasset.png)
 #### Data Asset Management
 ![dataassetmanagement](images/dataassetmanagement.png)
+#### Development Environments
+![development environment](images/developmentenvironment.png)
