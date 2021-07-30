@@ -50,4 +50,6 @@ We have created this course so that anyone with basic computer skills would be a
 ![manylanguage](images/manylanguage.png)
 ### So many popular languages!
 ![popularlanguage](images/popularlanguage.png)
+### Roles in Data Science
+![roleindatascience](images/roleindatascience.png)
 
