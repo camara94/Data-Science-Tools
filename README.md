@@ -135,3 +135,7 @@ We have created this course so that anyone with basic computer skills would be a
 ![code asset management tools](images/codeasset2.png)
 #### Data Asset Management( or Data Government) Tools
 ![data asset management tools](images/dataassetmanagementtools.png)
+### Open Source Tools for Data Science - Part 2
+#### Development Environment Tools
+![env](images/allenvironment.png)
+![other tools](images/othertools.png)
