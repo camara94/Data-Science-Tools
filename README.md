@@ -195,3 +195,5 @@ We have created this course so that anyone with basic computer skills would be a
 ### Cloud Based Tools for Data Science
 ![cloud](images/cloudtools1.png)
 This clusters are composed of multiple server machines transparently for the user in the background.
+### Watson Studio, together with Watson OpenScale
+![wos](images/wswos.png)
