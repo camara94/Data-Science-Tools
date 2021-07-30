@@ -177,3 +177,6 @@ We have created this course so that anyone with basic computer skills would be a
 ![datavisualization](images/datavisualizationcom.png)
 #### Model Building Tools
 ![model building](images/modelbuildingcom.png)
+
+#### Model Deployement
+![model deployement](images/modeldeployementcom.png)
