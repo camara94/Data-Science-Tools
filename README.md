@@ -147,3 +147,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![jupyterlab](images/jupyterlab2.png)
 #### Apache Zepplin Notebook Tools
 ![apachezepplin](images/apachezepplin.png)
+#### RStudio Tools
+![rstudio](images/rstudio2.png)
