@@ -184,3 +184,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![dataassettools](images/dataassettoolscom.png)
 #### Fully Integrated Visual Tools
 ![data](images/comtools.png)
+##### Watson Studio Tools and watson Open Scale
+![watson](images/watsonstudion.png)
