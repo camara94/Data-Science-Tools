@@ -58,3 +58,5 @@ We have created this course so that anyone with basic computer skills would be a
 #### Diversity and Inclusion Efforts
 ![diversity](images/diversity.png)
 ![diversity](images/diversity2.png)
+#### Who is Python for ?
+![whoispythonfor](images/whoispythonfor.png)
