@@ -289,9 +289,3 @@ R has built-in function for machine learning and data visualization. There are a
 ![api](images/api.png)
 ![api](images/api2.png)
 ![api](images/api3.png)
-#### REST APIs
-![restapi](images/resapi.png)
-![restapi](images/resapi2.png)
-#### REST APIs Interaction
-![restapiinter](images/resapiinteract.png)
-
