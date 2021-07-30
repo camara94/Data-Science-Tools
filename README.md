@@ -54,4 +54,7 @@ We have created this course so that anyone with basic computer skills would be a
 ![roleindatascience](images/roleindatascience.png)
 ### Lesson 1: Outline
 ![lesson1](images/lesson1.png)
-
+### Introduction to Python
+#### Diversity and Inclusion Efforts
+![diversity](images/diversity.png)
+![diversity](images/diversity2.png)
