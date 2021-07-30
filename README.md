@@ -129,3 +129,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![data visualization](images/datavisualization2.png)
 #### Model Deployement Tools
 ![model deployement tools](images/modeldeployement2.png)
+#### Model Monitoring and Assessement Tools
+![model monitoring](images/modelmonitoring2.png)
