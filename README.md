@@ -80,3 +80,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![relational databases](images/relationaldatabases.png)
 #### SQL Elements
 ![sql elements](images/sqlelements.png)
+#### What makes SQL great:
+![what makes sql great](images/whatmakessqlgreat.png)
