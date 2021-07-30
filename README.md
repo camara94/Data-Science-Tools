@@ -224,3 +224,5 @@ When it comes to commercial data integration tools, we talk not only about "Extr
 #### IBM Data Refinery
 ![data data refinery](images/datarefinery.png)
 Data Refinery enables transformation of large amounts of raw data into consumable quality information in a spread sheet-like user interface.
+### Data Visualization
+![dv](images/dv.png)
