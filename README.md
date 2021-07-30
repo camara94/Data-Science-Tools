@@ -46,3 +46,5 @@ We have created this course so that anyone with basic computer skills would be a
 ### Languages of Data Science
 ### Which language should I learn ?
 ![whichlanguage](images/whichlanguage.png)
+### So many languages recommended in Data Science!
+![manylanguage](images/manylanguage.png)
