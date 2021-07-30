@@ -248,4 +248,9 @@ In watson Studio, an abundance of different visualizations can be used to better
 
 ![scientifiq](images/scientifiquelib.png)
 * The primary instrument of Pandas is a two-dimensional table consisting of columns and rows. This table is caled a "DataFrame" and designed to provide easy indexing so you can work with your data.
-* Numpy libraries are based on arrays, enabling you to apply mathematical functions to these, pandas is actually build on top of Numpy
+* Numpy libraries are based on arrays, enabling you to apply mathematical functions to these, pandas is actually build on top of Numpy.
+### Visualization Libraries
+Data Visualization methods are a great way to communicate with others and show the meaningfull results of analysis. These libraries enable you to create graphs, charts and maps.
+![visualizationlib](images/visualizationlibraries.png)
+* Matplotlib(plots & most popular) the Matplotlib package is the most well-know library data visualization, and it's excellent for making graphs and plots.
+* seaborn is based on matplotlib. Seaborn makes it easy to generate plots like heat maps, time series, and violon plots.
