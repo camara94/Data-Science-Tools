@@ -235,3 +235,5 @@ Data Refinery enables transformation of large amounts of raw data into consumabl
 In watson Studio, an abundance of different visualizations can be used to better understand data
 ### Model building
 ![modelbuilding](images/modelbuiling.png)
+### Model deployement
+![deployement](images/modeldeployementcloud.png)
