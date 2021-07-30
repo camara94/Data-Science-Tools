@@ -237,3 +237,5 @@ In watson Studio, an abundance of different visualizations can be used to better
 ![modelbuilding](images/modelbuiling.png)
 ### Model deployement
 ![deployement](images/modeldeployementcloud.png)
+### Model Monitoring and Assessement
+![monitoring](images/monitoring.png)
