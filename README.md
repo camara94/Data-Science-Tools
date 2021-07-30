@@ -242,3 +242,10 @@ In watson Studio, an abundance of different visualizations can be used to better
 ### Module 3
 ### Libraries for Data Science
 ![labrary](images/library.png)
+#### Outline
+![outline](images/outline.png)
+#### Scientifics Computing Libraries in Python 
+
+![scientifiq](images/scientifiquelib.png)
+* The primary instrument of Pandas is a two-dimensional table consisting of columns and rows. This table is caled a "DataFrame" and designed to provide easy indexing so you can work with your data.
+* Numpy libraries are based on arrays, enabling you to apply mathematical functions to these, pandas is actually build on top of Numpy
