@@ -305,7 +305,8 @@ R has built-in function for machine learning and data visualization. There are a
  ![dataagreement](images/dataagreement.png)
 ### Data Asset Exchange
 ![dax](images/dax.png)
-
 ### Getting started width data sets
 ![data](images/starteddata.png)
+### Exploring a data set in Watson Studio
+![exploredata](images/exploredata.png)
 
