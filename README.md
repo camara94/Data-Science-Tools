@@ -116,3 +116,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![dataassetmanagement](images/dataassetmanagement.png)
 #### Development Environments
 ![development environment](images/developmentenvironment.png)
+#### Execution Environments
+![executionenvironment](images/executionenvironment.png)
