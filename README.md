@@ -303,3 +303,5 @@ R has built-in function for machine learning and data visualization. There are a
  ![finddata](images/wheretofinddata.png)
   #### Community Data Licence Agreement
  ![dataagreement](images/dataagreement.png)
+### Data Asset Exchange
+![dax](images/dax.png)
