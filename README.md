@@ -160,3 +160,5 @@ We have created this course so that anyone with basic computer skills would be a
 #### Ray
 ![ray](images/ray.png)
 * it focus large-scale deep learning model training
+### Tools with no programming level necessary
+![non-prog](images/noprogrammingtools.png)
