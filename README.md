@@ -294,3 +294,12 @@ R has built-in function for machine learning and data visualization. There are a
 ![restapi](images/resapi2.png)
 #### REST APIs Interaction
 ![restapiinter](images/resapiinteract.png)
+### Data Sets - Powering Data Science
+#### What's a data set
+![dataset](images/dataset.png)
+#### Data Ownership
+![ownership](images/ownership.png)
+ #### Where to find open data
+ ![finddata](images/wheretofinddata.png)
+ #### Community Data Licence Agreement
+ ![dataagreement](images/dataagreement.png)
