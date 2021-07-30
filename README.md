@@ -207,3 +207,6 @@ development life cycle of all data science, machine learning and IA tasks.
 ### Data Management
 ![data](images/datam.png)
 ![cloudapp](images/clouapp.png)
+#### Amazon DynamoDB 
+![d](images/dynamodb.png)
+it is Amazon Web services DynamoDB, a noSQL database that akkows storage and retrieval of data in key value or document store format.
