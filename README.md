@@ -282,3 +282,16 @@ R has built-in function for machine learning and data visualization. There are a
 * ggplot2 is a popular library for data visualization
 * interface with keras and tensorFlow.
 * R has been the de-facto standard for open source data science but it is now being superseded by Python.
+### Application Programming Interfaces (API)
+#### Outline
+![outline](images/outline2.png)
+#### API ?
+![api](images/api.png)
+![api](images/api2.png)
+![api](images/api3.png)
+#### REST APIs
+![restapi](images/resapi.png)
+![restapi](images/resapi2.png)
+#### REST APIs Interaction
+![restapiinter](images/resapiinteract.png)
+
