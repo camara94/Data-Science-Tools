@@ -78,3 +78,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![whatissql](images/whatissql.png)
 #### Relational Databases
 ![relational databases](images/relationaldatabases.png)
+#### SQL Elements
+![sql elements](images/sqlelements.png)
