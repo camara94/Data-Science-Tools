@@ -198,3 +198,7 @@ This clusters are composed of multiple server machines transparently for the use
 ### Watson Studio, together with Watson OpenScale
 ![wos](images/wswos.png)
 Watson Studio, together with Watson OpenScale, covers the complete development lefe cycle all data science machine learning ad IA tasks
+### Azure Machine Learning
+![azure](images/azuremachinelearning.png)
+cloudhosted offering supporting the complete
+development life cycle of all data science, machine learning and IA tasks.
