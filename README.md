@@ -221,3 +221,6 @@ it is apache couch DB, it has a adventage although complex operational tasks lik
 ### Data Integration and Transformation
 ![etl](images/etlel.png)
 When it comes to commercial data integration tools, we talk not only about "Extract, Transform, and Load", or "ETL" tools, but also about "Extract, Load, and Transform", or "ELT" tools.
+#### IBM Data Refinery
+![data data refinery](images/datarefinery.png)
+Data Refinery enables transformation of large amounts of raw data into consumable quality information in a spread sheet-like user interface.
