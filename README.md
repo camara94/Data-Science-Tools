@@ -168,3 +168,6 @@ We have created this course so that anyone with basic computer skills would be a
 #### Orange
 ![orange](images/orange.png)
 ![orange](images/orange2.png)
+### Commercial Tools for Data Science
+#### Data Management Tools
+![data management com](images/datamanagementcom.png)
