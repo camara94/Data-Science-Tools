@@ -133,3 +133,5 @@ We have created this course so that anyone with basic computer skills would be a
 ![model monitoring](images/modelmonitoring2.png)
 #### Code Asset Management Tools
 ![code asset management tools](images/codeasset2.png)
+#### Data Asset Management( or Data Government) Tools
+![data asset management tools](images/dataassetmanagementtools.png)
