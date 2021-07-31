@@ -350,3 +350,5 @@ Git is free and open source software distributed under the GNU General Public Li
 #### Github
 Github is one of the most popular web-hosted services for Git repositories.
 ![github](images/github.png)
+#### SHORT Glossary of Terms
+![terms](images/terms.png)
