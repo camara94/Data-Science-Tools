@@ -369,3 +369,5 @@ Github is one of the most popular web-hosted services for Git repositories.
 ![jupy](images/jup2.png)
 ### Jupyter Architecture 
 ![juparch](images/juparch.png)
+### Limitation of Jupyeter
+![lim](images/limitationofjup.png)
