@@ -316,3 +316,5 @@ R has built-in function for machine learning and data visualization. There are a
 ![supervised](images/supervisedlearning.png)
 ### Unsupervised Learning
 ![unsupervised](images/unsupervisedlearning.png)
+### Reinforcement Learning
+![reinforcement](images/reinforcementlearning.png)
