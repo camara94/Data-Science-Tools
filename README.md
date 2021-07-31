@@ -329,3 +329,5 @@ R has built-in function for machine learning and data visualization. There are a
 ![maxreducetime](images/maxreducestime.png)
 #### MAX model-serving microservice
 ![model-serving](images/model-serving.png)
+#### MAX model-serving microservice API
+![model-serving](images/model-servingapi.png)
