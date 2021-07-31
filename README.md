@@ -335,3 +335,8 @@ R has built-in function for machine learning and data visualization. There are a
 ![requesthandling](images/requesthandling.png)
 #### Summary
 ![summary](images/summary.png)
+## Module 4 - GitHub
+### Overview of Git/GitHub
+#### Version Control 
+A version control system allows you to keep track of changes to your documents.
+This makes it easy for you to recover older versions of your documents if you make a mistake, and it makes collaboration with others much easier.
