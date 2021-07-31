@@ -322,3 +322,5 @@ R has built-in function for machine learning and data visualization. There are a
 ![deeplearning](images/deeplearning.png)
 ### Deep Learning Models
 ![deeplearning](images/deeplearningmodel.png)
+### Using models to solve a problem
+![problemsolve](images/problemsolve.png)
