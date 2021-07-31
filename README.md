@@ -324,3 +324,6 @@ R has built-in function for machine learning and data visualization. There are a
 ![deeplearning](images/deeplearningmodel.png)
 ### Using models to solve a problem
 ![problemsolve](images/problemsolve.png)
+### The Model Asset Exchange
+#### MAX reduces time to value
+![maxreducetime](images/maxreducestime.png)
