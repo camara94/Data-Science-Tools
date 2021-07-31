@@ -375,3 +375,5 @@ Github is one of the most popular web-hosted services for Git repositories.
 ![solution](images/solutionjup.png)
 ### Architecture Diagram
 ![arc](images/architecturediagram.png)
+### Ressource
+[Reading: Jupyter Notebooks on the Internet](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+DS0105EN+v2/courseware/52427e36f14d4f4a9801c5f741e6c9c8/e834452ac5bd4b5e9ddd4e96c41f163f/?child=first)
