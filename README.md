@@ -342,3 +342,5 @@ A version control system allows you to keep track of changes to your documents.
 This makes it easy for you to recover older versions of your documents if you make a mistake, and it makes collaboration with others much easier.
 #### Working without Version Control
 ![working without version](images/workingwithoutversioncontrols.png)
+#### Working with Version Control
+![working without version](images/workingwithversioncontrols.png)
