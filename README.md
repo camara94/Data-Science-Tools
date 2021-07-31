@@ -309,4 +309,6 @@ R has built-in function for machine learning and data visualization. There are a
 ![data](images/starteddata.png)
 ### Exploring a data set in Watson Studio
 ![exploredata](images/exploredata.png)
-
+### Machine Learning Models
+#### What is  a model ?
+![mlmodel](images/mlmodel.png)
