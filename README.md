@@ -363,3 +363,7 @@ Github is one of the most popular web-hosted services for Git repositories.
 ![staging](images/staging.png)
 ### Remote Repositroy
 ![remote](images/remote.png)
+## Module 5 - Jupyter Notebooks and JupyterLab
+### Getting Started with Jupyter Notebooks
+![jupy](images/jup1.png)
+![jupy](images/jup2.png)
