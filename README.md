@@ -327,3 +327,5 @@ R has built-in function for machine learning and data visualization. There are a
 ### The Model Asset Exchange
 #### MAX reduces time to value
 ![maxreducetime](images/maxreducestime.png)
+#### MAX model-serving microservice
+![model-serving](images/model-serving.png)
