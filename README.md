@@ -312,3 +312,5 @@ R has built-in function for machine learning and data visualization. There are a
 ### Machine Learning Models
 #### What is  a model ?
 ![mlmodel](images/mlmodel.png)
+#### Supervised Learning
+![supervised](images/supervisedlearning.png)
