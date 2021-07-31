@@ -344,3 +344,6 @@ This makes it easy for you to recover older versions of your documents if you ma
 ![working without version](images/workingwithoutversioncontrols.png)
 #### Working with Version Control
 ![working without version](images/workingwithversioncontrols.png)
+#### Git
+Git is free and open source software distributed under the GNU General Public Licence.
+![git](images/git.png)
