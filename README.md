@@ -331,3 +331,5 @@ R has built-in function for machine learning and data visualization. There are a
 ![model-serving](images/model-serving.png)
 #### MAX model-serving microservice API
 ![model-serving](images/model-servingapi.png)
+#### Prediction request handling
+![requesthandling](images/requesthandling.png)
