@@ -356,3 +356,10 @@ Github is one of the most popular web-hosted services for Git repositories.
 ![basic](images/basicsofgithub.png)
 #### https://try.github.io
 ![try](images/trygit.png)
+### GitHub - Part 1
+#### Repository
+![repository](images/repository.png)
+### Staging
+![staging](images/staging.png)
+### Remote Repositroy
+![remote](images/remote.png)
