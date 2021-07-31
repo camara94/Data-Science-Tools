@@ -352,3 +352,5 @@ Github is one of the most popular web-hosted services for Git repositories.
 ![github](images/github.png)
 #### SHORT Glossary of Terms
 ![terms](images/terms.png)
+#### Basic Git Commands
+![basic](images/basicsofgithub.png)
